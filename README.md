@@ -22,7 +22,7 @@ A Streamlit-based application that allows users to upload PDF documents and inte
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+https://github.com/rajat343/multiple_pdf_qa.git
 cd pdf-chat-assistant
 ```
 
