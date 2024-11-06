@@ -22,8 +22,8 @@ A Streamlit-based application that allows users to upload PDF documents and inte
 1. Clone the repository:
 
 ```bash
-https://github.com/rajat343/multiple_pdf_qa.git
-cd pdf-chat-assistant
+git clone https://github.com/rajat343/multiple_pdf_qa.git
+cd multiple_pdf_qa
 ```
 
 2. Create and activate a virtual environment (recommended):
