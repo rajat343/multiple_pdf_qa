@@ -22,7 +22,7 @@ A Streamlit-based application that allows users to upload PDF documents and inte
 1. Clone the repository:
 
 ```bash
-git clone <your-repository-url>
+git clone <repository-url>
 cd pdf-chat-assistant
 ```
 
@@ -123,16 +123,8 @@ The application uses OpenAI's API which has associated costs:
 
 Feel free to submit issues, fork the repository, and create pull requests for any improvements.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 -   Built with [Streamlit](https://streamlit.io/)
 -   Uses [LangChain](https://python.langchain.com/) for document processing
 -   Powered by [OpenAI](https://openai.com/) GPT-4
-
-## Support
-
-For support, please open an issue in the GitHub repository or contact the maintainers.
